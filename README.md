@@ -1,7 +1,7 @@
 # governance
 Issues and discussions relating to organization governance.
 
-THE API Standards working group consists of members from several organizations working in the API management field. We are working together to create standards for full API Lifecycle tasks including:
+The API Standards working group consists of members from several organizations working in the API management field. We are working together to create standards for full API Lifecycle tasks including:
 
 * Planning
 * Design
